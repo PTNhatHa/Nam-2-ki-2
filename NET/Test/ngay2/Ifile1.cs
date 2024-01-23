@@ -1,0 +1,13 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Threading.Tasks;
+
+namespace Test
+{
+    public interface Ifile1
+    {
+        void A1();
+        void B1();
+    }
+}

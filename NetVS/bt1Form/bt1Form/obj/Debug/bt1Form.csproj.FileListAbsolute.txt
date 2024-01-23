@@ -1,0 +1,6 @@
+D:\NetVS\bt1Form\bt1Form\obj\Debug\bt1Form.csproj.AssemblyReference.cache
+D:\NetVS\bt1Form\bt1Form\obj\Debug\bt1Form.csproj.SuggestedBindingRedirects.cache
+D:\NetVS\bt1Form\bt1Form\obj\Debug\bt1Form.Form1.resources
+D:\NetVS\bt1Form\bt1Form\obj\Debug\bt1Form.Properties.Resources.resources
+D:\NetVS\bt1Form\bt1Form\obj\Debug\bt1Form.csproj.GenerateResource.cache
+D:\NetVS\bt1Form\bt1Form\obj\Debug\bt1Form.csproj.CoreCompileInputs.cache

@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="DB01">
+  <DataContextMoniker Name="/DB01DataContext" />
+  <nestedChildShapes>
+    <classShape Id="3e626253-6c67-4f93-a604-30e097fcdfbb" absoluteBounds="3.5, 0.875, 2, 1.7708968098958333">
+      <DataClassMoniker Name="/DB01DataContext/SV" />
+      <nestedChildShapes>
+        <elementListCompartment Id="7d8265aa-e238-4af8-88ed-4dadadbab405" absoluteBounds="3.515, 1.335, 1.9700000000000002, 1.2108968098958333" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="e1b9e8e1-58ae-4ff7-8bc2-bb43d17d8620" absoluteBounds="0.75, 1.25, 2, 1.1939925130208338">
+      <DataClassMoniker Name="/DB01DataContext/TenLop" />
+      <nestedChildShapes>
+        <elementListCompartment Id="2fc87018-a5cf-4240-960c-ea2e2bb035c2" absoluteBounds="0.765, 1.71, 1.9700000000000002, 0.63399251302083326" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(2.75 : 1.84699625651042); (3.5 : 1.84699625651042)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/DB01DataContext/TenLop/TenLop_SV" />
+      <nodes>
+        <classShapeMoniker Id="e1b9e8e1-58ae-4ff7-8bc2-bb43d17d8620" />
+        <classShapeMoniker Id="3e626253-6c67-4f93-a604-30e097fcdfbb" />
+      </nodes>
+    </associationConnector>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>

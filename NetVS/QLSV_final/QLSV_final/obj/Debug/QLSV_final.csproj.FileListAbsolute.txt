@@ -1,0 +1,12 @@
+D:\LEARNING\HK4\NetVS\QLSV_final\QLSV_final\bin\Debug\QLSV_final.exe.config
+D:\LEARNING\HK4\NetVS\QLSV_final\QLSV_final\bin\Debug\QLSV_final.exe
+D:\LEARNING\HK4\NetVS\QLSV_final\QLSV_final\bin\Debug\QLSV_final.pdb
+D:\LEARNING\HK4\NetVS\QLSV_final\QLSV_final\obj\Debug\QLSV_final.csproj.AssemblyReference.cache
+D:\LEARNING\HK4\NetVS\QLSV_final\QLSV_final\obj\Debug\QLSV_final.csproj.SuggestedBindingRedirects.cache
+D:\LEARNING\HK4\NetVS\QLSV_final\QLSV_final\obj\Debug\QLSV_final.Information.resources
+D:\LEARNING\HK4\NetVS\QLSV_final\QLSV_final\obj\Debug\QLSV_final.MainForm.resources
+D:\LEARNING\HK4\NetVS\QLSV_final\QLSV_final\obj\Debug\QLSV_final.Properties.Resources.resources
+D:\LEARNING\HK4\NetVS\QLSV_final\QLSV_final\obj\Debug\QLSV_final.csproj.GenerateResource.cache
+D:\LEARNING\HK4\NetVS\QLSV_final\QLSV_final\obj\Debug\QLSV_final.csproj.CoreCompileInputs.cache
+D:\LEARNING\HK4\NetVS\QLSV_final\QLSV_final\obj\Debug\QLSV_final.exe
+D:\LEARNING\HK4\NetVS\QLSV_final\QLSV_final\obj\Debug\QLSV_final.pdb

@@ -1,0 +1,31 @@
+# Project: Lab07
+# Makefile created by Dev-C++ 5.11
+
+CPP      = g++.exe
+CC       = gcc.exe
+WINDRES  = windres.exe
+OBJ      = labB-splineUniform.o labB-spline.o
+LINKOBJ  = labB-splineUniform.o labB-spline.o
+LIBS     = -L"D:/LEARNING/Dev-Cpp/MinGW64/x86_64-w64-mingw32/lib" -static-libgcc -lws2_32 -lopengl32 -lfreeglut -lglu32
+INCS     = -I"D:/LEARNING/Dev-Cpp/MinGW64/x86_64-w64-mingw32/include"
+CXXINCS  = -I"D:/LEARNING/Dev-Cpp/MinGW64/x86_64-w64-mingw32/include"
+BIN      = Lab07.exe
+CXXFLAGS = $(CXXINCS) 
+CFLAGS   = $(INCS) 
+RM       = rm.exe -f
+
+.PHONY: all all-before all-after clean clean-custom
+
+all: all-before $(BIN) all-after
+
+clean: clean-custom
+	${RM} $(OBJ) $(BIN)
+
+$(BIN): $(OBJ)
+	$(CPP) $(LINKOBJ) -o $(BIN) $(LIBS)
+
+labB-splineUniform.o: labB-splineUniform.cpp
+	$(CPP) -c labB-splineUniform.cpp -o labB-splineUniform.o $(CXXFLAGS)
+
+labB-spline.o: labB-spline.cpp
+	$(CPP) -c labB-spline.cpp -o labB-spline.o $(CXXFLAGS)

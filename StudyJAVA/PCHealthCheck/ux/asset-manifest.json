@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "./static/css/main.ece207ab.chunk.css",
+    "main.js": "./static/js/main.e3db7f25.chunk.js",
+    "main.js.map": "./static/js/main.e3db7f25.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.34e93b67.js",
+    "runtime-main.js.map": "./static/js/runtime-main.34e93b67.js.map",
+    "static/js/2.7442f0f9.chunk.js": "./static/js/2.7442f0f9.chunk.js",
+    "static/js/2.7442f0f9.chunk.js.map": "./static/js/2.7442f0f9.chunk.js.map",
+    "index.html": "./index.html",
+    "precache-manifest.5f67088d87e95d4bc2aeb38f867faa1e.js": "./precache-manifest.5f67088d87e95d4bc2aeb38f867faa1e.js",
+    "service-worker.js": "./service-worker.js",
+    "static/css/main.ece207ab.chunk.css.map": "./static/css/main.ece207ab.chunk.css.map",
+    "static/js/2.7442f0f9.chunk.js.LICENSE.txt": "./static/js/2.7442f0f9.chunk.js.LICENSE.txt",
+    "static/media/backup-Sync.svg": "./static/media/backup-Sync.4e8f0d66.svg",
+    "static/media/App.css": "./static/media/fabricmdl2icons-3.54.dfd8f5ee.woff",
+    "static/media/ms-logo.svg": "./static/media/ms-logo.e4826bfb.svg",
+    "static/media/pc-health.ico": "./static/media/pc-health.28d8f6f7.ico",
+    "static/media/sv-amber-warning.svg": "./static/media/sv-amber-warning.9b61b1c7.svg",
+    "static/media/UpgradeEligibility.css": "./static/media/upgrade-bg.98866994.jpg",
+    "static/media/upgrade-eligible.svg": "./static/media/upgrade-eligible.3ff26f7b.svg",
+    "static/media/upgrade-not-eligible.svg": "./static/media/upgrade-not-eligible.f8b0d3b5.svg",
+    "static/media/upgrade-unknown.svg": "./static/media/upgrade-unknown.a7022499.svg",
+    "static/media/win10-laptop.svg": "./static/media/win10-laptop.bbc9278f.svg",
+    "static/media/windows-update.svg": "./static/media/windows-update.e97ff1f5.svg",
+    "static/media/your-device-desktop.png": "./static/media/your-device-desktop.5a3d9c22.png",
+    "static/media/your-device-laptop.png": "./static/media/your-device-laptop.9be18575.png",
+    "static/media/your-device-tablet.png": "./static/media/your-device-tablet.9a6d3ad2.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.34e93b67.js",
+    "static/js/2.7442f0f9.chunk.js",
+    "static/css/main.ece207ab.chunk.css",
+    "static/js/main.e3db7f25.chunk.js"
+  ]
+}

@@ -1,0 +1,12 @@
+D:\LEARNING\HK4\NetVS\QLSV_3layers\QLSV_3layers\bin\Debug\QLSV_3layers.exe.config
+D:\LEARNING\HK4\NetVS\QLSV_3layers\QLSV_3layers\bin\Debug\QLSV_3layers.exe
+D:\LEARNING\HK4\NetVS\QLSV_3layers\QLSV_3layers\bin\Debug\QLSV_3layers.pdb
+D:\LEARNING\HK4\NetVS\QLSV_3layers\QLSV_3layers\obj\Debug\QLSV_3layers.csproj.AssemblyReference.cache
+D:\LEARNING\HK4\NetVS\QLSV_3layers\QLSV_3layers\obj\Debug\QLSV_3layers.csproj.SuggestedBindingRedirects.cache
+D:\LEARNING\HK4\NetVS\QLSV_3layers\QLSV_3layers\obj\Debug\QLSV_3layers.Properties.Resources.resources
+D:\LEARNING\HK4\NetVS\QLSV_3layers\QLSV_3layers\obj\Debug\QLSV_3layers.View.Detailform.resources
+D:\LEARNING\HK4\NetVS\QLSV_3layers\QLSV_3layers\obj\Debug\QLSV_3layers.Mainform.resources
+D:\LEARNING\HK4\NetVS\QLSV_3layers\QLSV_3layers\obj\Debug\QLSV_3layers.csproj.GenerateResource.cache
+D:\LEARNING\HK4\NetVS\QLSV_3layers\QLSV_3layers\obj\Debug\QLSV_3layers.csproj.CoreCompileInputs.cache
+D:\LEARNING\HK4\NetVS\QLSV_3layers\QLSV_3layers\obj\Debug\QLSV_3layers.exe
+D:\LEARNING\HK4\NetVS\QLSV_3layers\QLSV_3layers\obj\Debug\QLSV_3layers.pdb

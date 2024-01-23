@@ -1,0 +1,25 @@
+Để triển khai hệ thống này, chúng em đã sử dụng một số công cụ như:
+	sql để tạo và lưu trữ csdl
+	figma để thiết kế giao diện
+	để triển khai hệ thống này em quyết định chọn nguôn ngữ C# và
+	vs để triển khai code hệ thống
+	github để quản lý mã nguồn
+bên cạnh đó để phát triển hệ thống dưới dạng 1 appdesktop thì chúng em đã sử dụng mô hình 3 lớp bởi các ưu điểm nó mang lại như:
+	dễ phân phối công việc
+	dễ bảo trì và phát triẻn
+	cũng như là giúp cho code được tường minh hơn
+
+•	Đặt tên có ý nghĩa, dễ hiểu
+•	Đặt tên hàm theo chuẩn “Camel Case”: tên bắt đầu bằng một chữ cái viết thường và tất cả các chữ cái đầu của những từ tiếp theo sẽ được viết hoa 
+(vd: getUserID(), getUserName(), …)
+•	Tên hàm là một cụm động từ, sử dụng cùng một động từ nhất quán cho cùng một hành động 
+(vd: getUserID(), getUserName(), …)
+•	Đặt tên Class theo quy tắc “Pascal Case”: viết hoa tất cả chữ cái đầu tiên của mỗi từ 
+(vd: AccountInformation, Student, …)
+
+-> việc đặt tên code theo 1 chuẩn như vậy giúp cho code đc minh bạch cx như giúp các thành viên dễ trao đổi với nhau hơn
+
+kiểm thử là 1 giai đoạn không thể thiếu đối với bất kì sản phẩm phần mềm nào
+bởi nó giúp ta phát hiện được những lỗi còn tồn đọng, cũng như kiểm tra xem các yêu cầu chức năng-phi cn đã được đáp ứng hay chưa trước khi đến tay người dùng cuối
+
+có 3 loại kiểm thử: đơn vị, tích hợp, hệ thống

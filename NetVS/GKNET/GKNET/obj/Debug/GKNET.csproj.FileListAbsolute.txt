@@ -1,0 +1,12 @@
+D:\LEARNING\HK4\NetVS\GKNET\GKNET\bin\Debug\GKNET.exe.config
+D:\LEARNING\HK4\NetVS\GKNET\GKNET\bin\Debug\GKNET.exe
+D:\LEARNING\HK4\NetVS\GKNET\GKNET\bin\Debug\GKNET.pdb
+D:\LEARNING\HK4\NetVS\GKNET\GKNET\obj\Debug\GKNET.csproj.AssemblyReference.cache
+D:\LEARNING\HK4\NetVS\GKNET\GKNET\obj\Debug\GKNET.csproj.SuggestedBindingRedirects.cache
+D:\LEARNING\HK4\NetVS\GKNET\GKNET\obj\Debug\GKNET.DetailForm.resources
+D:\LEARNING\HK4\NetVS\GKNET\GKNET\obj\Debug\GKNET.Mainform.resources
+D:\LEARNING\HK4\NetVS\GKNET\GKNET\obj\Debug\GKNET.Properties.Resources.resources
+D:\LEARNING\HK4\NetVS\GKNET\GKNET\obj\Debug\GKNET.csproj.GenerateResource.cache
+D:\LEARNING\HK4\NetVS\GKNET\GKNET\obj\Debug\GKNET.csproj.CoreCompileInputs.cache
+D:\LEARNING\HK4\NetVS\GKNET\GKNET\obj\Debug\GKNET.exe
+D:\LEARNING\HK4\NetVS\GKNET\GKNET\obj\Debug\GKNET.pdb

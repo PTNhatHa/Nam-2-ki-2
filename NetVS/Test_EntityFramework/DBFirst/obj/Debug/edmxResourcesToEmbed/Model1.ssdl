@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="QLSVModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="SV">
+    <Key>
+      <PropertyRef Name="MaSV" />
+    </Key>
+    <Property Name="MaSV" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="TenSV" Type="nvarchar" MaxLength="50" />
+    <Property Name="Gender" Type="bit" />
+    <Property Name="DTB" Type="float" />
+    <Property Name="IDLop" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="TenLop">
+    <Key>
+      <PropertyRef Name="IDLop" />
+    </Key>
+    <Property Name="IDLop" Type="int" Nullable="false" />
+    <Property Name="TenLop" Type="nvarchar" MaxLength="50" />
+  </EntityType>
+  <Association Name="FK_SV_TenLop">
+    <End Role="TenLop" Type="Self.TenLop" Multiplicity="1" />
+    <End Role="SV" Type="Self.SV" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="TenLop">
+        <PropertyRef Name="IDLop" />
+      </Principal>
+      <Dependent Role="SV">
+        <PropertyRef Name="IDLop" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="QLSVModelStoreContainer">
+    <EntitySet Name="SV" EntityType="Self.SV" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="TenLop" EntityType="Self.TenLop" Schema="dbo" store:Type="Tables" />
+    <AssociationSet Name="FK_SV_TenLop" Association="Self.FK_SV_TenLop">
+      <End Role="TenLop" EntitySet="TenLop" />
+      <End Role="SV" EntitySet="SV" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

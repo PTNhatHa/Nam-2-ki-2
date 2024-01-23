@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="QLSVModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="SV">
+    <Key>
+      <PropertyRef Name="MaSV" />
+    </Key>
+    <Property Name="MaSV" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="TenSV" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Gender" Type="Boolean" />
+    <Property Name="DTB" Type="Double" />
+    <Property Name="IDLop" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="TenLop" Relationship="Self.FK_SV_TenLop" FromRole="SV" ToRole="TenLop" />
+  </EntityType>
+  <EntityType Name="TenLop">
+    <Key>
+      <PropertyRef Name="IDLop" />
+    </Key>
+    <Property Name="IDLop" Type="Int32" Nullable="false" />
+    <Property Name="TenLop1" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="SVs" Relationship="Self.FK_SV_TenLop" FromRole="TenLop" ToRole="SV" />
+  </EntityType>
+  <Association Name="FK_SV_TenLop">
+    <End Role="TenLop" Type="Self.TenLop" Multiplicity="1" />
+    <End Role="SV" Type="Self.SV" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="TenLop">
+        <PropertyRef Name="IDLop" />
+      </Principal>
+      <Dependent Role="SV">
+        <PropertyRef Name="IDLop" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="QLSVEntity" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="SVs" EntityType="Self.SV" />
+    <EntitySet Name="TenLops" EntityType="Self.TenLop" />
+    <AssociationSet Name="FK_SV_TenLop" Association="Self.FK_SV_TenLop">
+      <End Role="TenLop" EntitySet="TenLops" />
+      <End Role="SV" EntitySet="SVs" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

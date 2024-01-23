@@ -1,0 +1,12 @@
+D:\LEARNING\HK4\NetVS\QLMarket\QLMarket\bin\Debug\QLMarket.exe.config
+D:\LEARNING\HK4\NetVS\QLMarket\QLMarket\bin\Debug\QLMarket.exe
+D:\LEARNING\HK4\NetVS\QLMarket\QLMarket\bin\Debug\QLMarket.pdb
+D:\LEARNING\HK4\NetVS\QLMarket\QLMarket\obj\Debug\QLMarket.csproj.AssemblyReference.cache
+D:\LEARNING\HK4\NetVS\QLMarket\QLMarket\obj\Debug\QLMarket.csproj.SuggestedBindingRedirects.cache
+D:\LEARNING\HK4\NetVS\QLMarket\QLMarket\obj\Debug\QLMarket.DetailForm.resources
+D:\LEARNING\HK4\NetVS\QLMarket\QLMarket\obj\Debug\QLMarket.MainForm.resources
+D:\LEARNING\HK4\NetVS\QLMarket\QLMarket\obj\Debug\QLMarket.Properties.Resources.resources
+D:\LEARNING\HK4\NetVS\QLMarket\QLMarket\obj\Debug\QLMarket.csproj.GenerateResource.cache
+D:\LEARNING\HK4\NetVS\QLMarket\QLMarket\obj\Debug\QLMarket.csproj.CoreCompileInputs.cache
+D:\LEARNING\HK4\NetVS\QLMarket\QLMarket\obj\Debug\QLMarket.exe
+D:\LEARNING\HK4\NetVS\QLMarket\QLMarket\obj\Debug\QLMarket.pdb

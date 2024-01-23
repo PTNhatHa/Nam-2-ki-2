@@ -1,0 +1,11 @@
+D:\LEARNING\HK4\NetVS\Test_3Layers\Test_3Layers\bin\Debug\Test_3Layers.exe.config
+D:\LEARNING\HK4\NetVS\Test_3Layers\Test_3Layers\bin\Debug\Test_3Layers.exe
+D:\LEARNING\HK4\NetVS\Test_3Layers\Test_3Layers\bin\Debug\Test_3Layers.pdb
+D:\LEARNING\HK4\NetVS\Test_3Layers\Test_3Layers\obj\Debug\Test_3Layers.csproj.AssemblyReference.cache
+D:\LEARNING\HK4\NetVS\Test_3Layers\Test_3Layers\obj\Debug\Test_3Layers.csproj.SuggestedBindingRedirects.cache
+D:\LEARNING\HK4\NetVS\Test_3Layers\Test_3Layers\obj\Debug\Test_3Layers.Properties.Resources.resources
+D:\LEARNING\HK4\NetVS\Test_3Layers\Test_3Layers\obj\Debug\Test_3Layers.Form1.resources
+D:\LEARNING\HK4\NetVS\Test_3Layers\Test_3Layers\obj\Debug\Test_3Layers.csproj.GenerateResource.cache
+D:\LEARNING\HK4\NetVS\Test_3Layers\Test_3Layers\obj\Debug\Test_3Layers.csproj.CoreCompileInputs.cache
+D:\LEARNING\HK4\NetVS\Test_3Layers\Test_3Layers\obj\Debug\Test_3Layers.exe
+D:\LEARNING\HK4\NetVS\Test_3Layers\Test_3Layers\obj\Debug\Test_3Layers.pdb

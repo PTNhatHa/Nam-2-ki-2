@@ -1,0 +1,11 @@
+D:\NetVS\StudyNet\StudyNet\bin\Debug\StudyNet.exe.config
+D:\NetVS\StudyNet\StudyNet\bin\Debug\StudyNet.exe
+D:\NetVS\StudyNet\StudyNet\bin\Debug\StudyNet.pdb
+D:\NetVS\StudyNet\StudyNet\obj\Debug\StudyNet.csproj.AssemblyReference.cache
+D:\NetVS\StudyNet\StudyNet\obj\Debug\StudyNet.csproj.SuggestedBindingRedirects.cache
+D:\NetVS\StudyNet\StudyNet\obj\Debug\StudyNet.Form1.resources
+D:\NetVS\StudyNet\StudyNet\obj\Debug\StudyNet.Properties.Resources.resources
+D:\NetVS\StudyNet\StudyNet\obj\Debug\StudyNet.csproj.GenerateResource.cache
+D:\NetVS\StudyNet\StudyNet\obj\Debug\StudyNet.csproj.CoreCompileInputs.cache
+D:\NetVS\StudyNet\StudyNet\obj\Debug\StudyNet.exe
+D:\NetVS\StudyNet\StudyNet\obj\Debug\StudyNet.pdb

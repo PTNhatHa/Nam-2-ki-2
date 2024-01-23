@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="NET1" Class="DB01DataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=NHATHA;Initial Catalog=NET1;Integrated Security=True" SettingsObjectName="Test_LINQ.Properties.Settings" SettingsPropertyName="NET1ConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.SV" Member="SVs">
+    <Type Name="SV">
+      <Column Name="MaSV" Type="System.String" DbType="NVarChar(50) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="TenSV" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="Gender" Type="System.Boolean" DbType="Bit" CanBeNull="true" />
+      <Column Name="DTB" Type="System.Double" DbType="Float" CanBeNull="true" />
+      <Column Name="IDLop" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Association Name="TenLop_SV" Member="TenLop" ThisKey="IDLop" OtherKey="IDLop" Type="TenLop" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.TenLop" Member="TenLops">
+    <Type Name="TenLop">
+      <Column Name="IDLop" Type="System.Int32" DbType="Int NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="TenLop" Member="TenLop1" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Association Name="TenLop_SV" Member="SVs" ThisKey="IDLop" OtherKey="IDLop" Type="SV" />
+    </Type>
+  </Table>
+</Database>

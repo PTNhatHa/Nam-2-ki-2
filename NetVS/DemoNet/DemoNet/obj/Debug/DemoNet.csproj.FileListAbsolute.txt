@@ -1,0 +1,8 @@
+D:\NetVS\DemoNet\DemoNet\bin\Debug\DemoNet.exe.config
+D:\NetVS\DemoNet\DemoNet\bin\Debug\DemoNet.exe
+D:\NetVS\DemoNet\DemoNet\bin\Debug\DemoNet.pdb
+D:\NetVS\DemoNet\DemoNet\obj\Debug\DemoNet.csproj.AssemblyReference.cache
+D:\NetVS\DemoNet\DemoNet\obj\Debug\DemoNet.csproj.SuggestedBindingRedirects.cache
+D:\NetVS\DemoNet\DemoNet\obj\Debug\DemoNet.csproj.CoreCompileInputs.cache
+D:\NetVS\DemoNet\DemoNet\obj\Debug\DemoNet.exe
+D:\NetVS\DemoNet\DemoNet\obj\Debug\DemoNet.pdb

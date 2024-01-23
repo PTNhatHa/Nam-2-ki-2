@@ -1,0 +1,12 @@
+D:\LEARNING\HK4\NetVS\Test_LINQ\Test_LINQ\bin\Debug\Test_LINQ.exe.config
+D:\LEARNING\HK4\NetVS\Test_LINQ\Test_LINQ\bin\Debug\Test_LINQ.exe
+D:\LEARNING\HK4\NetVS\Test_LINQ\Test_LINQ\bin\Debug\Test_LINQ.pdb
+D:\LEARNING\HK4\NetVS\Test_LINQ\Test_LINQ\obj\Debug\Test_LINQ.csproj.AssemblyReference.cache
+D:\LEARNING\HK4\NetVS\Test_LINQ\Test_LINQ\obj\Debug\Test_LINQ.csproj.SuggestedBindingRedirects.cache
+D:\LEARNING\HK4\NetVS\Test_LINQ\Test_LINQ\obj\Debug\Test_LINQ.Form1.resources
+D:\LEARNING\HK4\NetVS\Test_LINQ\Test_LINQ\obj\Debug\Test_LINQ.Properties.Resources.resources
+D:\LEARNING\HK4\NetVS\Test_LINQ\Test_LINQ\obj\Debug\Test_LINQ.csproj.GenerateResource.cache
+D:\LEARNING\HK4\NetVS\Test_LINQ\Test_LINQ\obj\Debug\Test_LINQ.csproj.CoreCompileInputs.cache
+D:\LEARNING\HK4\NetVS\Test_LINQ\Test_LINQ\obj\Debug\Test_LINQ.exe
+D:\LEARNING\HK4\NetVS\Test_LINQ\Test_LINQ\obj\Debug\Test_LINQ.pdb
+D:\LEARNING\HK4\NetVS\Test_LINQ\Test_LINQ\obj\Debug\Test_LINQ.Form2.resources

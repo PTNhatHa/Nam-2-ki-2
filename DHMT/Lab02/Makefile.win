@@ -1,0 +1,49 @@
+# Project: Lab02
+# Makefile created by Dev-C++ 5.11
+
+CPP      = g++.exe
+CC       = gcc.exe
+WINDRES  = windres.exe
+OBJ      = lab02viewmatrix.o lab02transform.o lab02rotation02.o lab02rotation03.o lab02affine.o lab02earth.o Lab2_BT.o lab02rotation01.o
+LINKOBJ  = lab02viewmatrix.o lab02transform.o lab02rotation02.o lab02rotation03.o lab02affine.o lab02earth.o Lab2_BT.o lab02rotation01.o
+LIBS     = -L"D:/LEARNING/Dev-Cpp/MinGW64/x86_64-w64-mingw32/lib" -static-libgcc -lopengl32 -lfreeglut -lglu32
+INCS     = -I"D:/LEARNING/Dev-Cpp/MinGW64/x86_64-w64-mingw32/include"
+CXXINCS  = -I"D:/LEARNING/Dev-Cpp/MinGW64/x86_64-w64-mingw32/include"
+BIN      = Lab02.exe
+CXXFLAGS = $(CXXINCS) 
+CFLAGS   = $(INCS) 
+RM       = rm.exe -f
+
+.PHONY: all all-before all-after clean clean-custom
+
+all: all-before $(BIN) all-after
+
+clean: clean-custom
+	${RM} $(OBJ) $(BIN)
+
+$(BIN): $(OBJ)
+	$(CPP) $(LINKOBJ) -o $(BIN) $(LIBS)
+
+lab02viewmatrix.o: lab02viewmatrix.cpp
+	$(CPP) -c lab02viewmatrix.cpp -o lab02viewmatrix.o $(CXXFLAGS)
+
+lab02transform.o: lab02transform.cpp
+	$(CPP) -c lab02transform.cpp -o lab02transform.o $(CXXFLAGS)
+
+lab02rotation02.o: lab02rotation02.cpp
+	$(CPP) -c lab02rotation02.cpp -o lab02rotation02.o $(CXXFLAGS)
+
+lab02rotation03.o: lab02rotation03.cpp
+	$(CPP) -c lab02rotation03.cpp -o lab02rotation03.o $(CXXFLAGS)
+
+lab02affine.o: lab02affine.cpp
+	$(CPP) -c lab02affine.cpp -o lab02affine.o $(CXXFLAGS)
+
+lab02earth.o: lab02earth.cpp
+	$(CPP) -c lab02earth.cpp -o lab02earth.o $(CXXFLAGS)
+
+Lab2_BT.o: Lab2_BT.cpp
+	$(CPP) -c Lab2_BT.cpp -o Lab2_BT.o $(CXXFLAGS)
+
+lab02rotation01.o: lab02rotation01.cpp
+	$(CPP) -c lab02rotation01.cpp -o lab02rotation01.o $(CXXFLAGS)

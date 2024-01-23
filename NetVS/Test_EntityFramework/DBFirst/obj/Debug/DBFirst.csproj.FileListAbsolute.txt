@@ -1,0 +1,16 @@
+D:\LEARNING\HK4\NetVS\Test_EntityFramework\DBFirst\bin\Debug\DBFirst.exe.config
+D:\LEARNING\HK4\NetVS\Test_EntityFramework\DBFirst\bin\Debug\DBFirst.exe
+D:\LEARNING\HK4\NetVS\Test_EntityFramework\DBFirst\bin\Debug\DBFirst.pdb
+D:\LEARNING\HK4\NetVS\Test_EntityFramework\DBFirst\bin\Debug\EntityFramework.dll
+D:\LEARNING\HK4\NetVS\Test_EntityFramework\DBFirst\bin\Debug\EntityFramework.SqlServer.dll
+D:\LEARNING\HK4\NetVS\Test_EntityFramework\DBFirst\bin\Debug\EntityFramework.xml
+D:\LEARNING\HK4\NetVS\Test_EntityFramework\DBFirst\bin\Debug\EntityFramework.SqlServer.xml
+D:\LEARNING\HK4\NetVS\Test_EntityFramework\DBFirst\obj\Debug\DBFirst.csproj.AssemblyReference.cache
+D:\LEARNING\HK4\NetVS\Test_EntityFramework\DBFirst\obj\Debug\DBFirst.csproj.SuggestedBindingRedirects.cache
+D:\LEARNING\HK4\NetVS\Test_EntityFramework\DBFirst\obj\Debug\DBFirst.Form1.resources
+D:\LEARNING\HK4\NetVS\Test_EntityFramework\DBFirst\obj\Debug\DBFirst.Properties.Resources.resources
+D:\LEARNING\HK4\NetVS\Test_EntityFramework\DBFirst\obj\Debug\DBFirst.csproj.GenerateResource.cache
+D:\LEARNING\HK4\NetVS\Test_EntityFramework\DBFirst\obj\Debug\DBFirst.csproj.CoreCompileInputs.cache
+D:\LEARNING\HK4\NetVS\Test_EntityFramework\DBFirst\obj\Debug\DBFirst.csproj.CopyComplete
+D:\LEARNING\HK4\NetVS\Test_EntityFramework\DBFirst\obj\Debug\DBFirst.exe
+D:\LEARNING\HK4\NetVS\Test_EntityFramework\DBFirst\obj\Debug\DBFirst.pdb

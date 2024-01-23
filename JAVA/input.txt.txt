@@ -1,0 +1,11 @@
+HV31223340Nguyen Van A                                     01/01/2003Nam1
+HV31223341Nguyen Van B                                     31/02/2003Nu 9.0 
+HV31223342Nguyen Van C                                     03/03/2003Nam1.0 
+HV31223343Nguyen Van D                                     04/04/2003Nam4.2 
+HV31223344Nguyen Van E                                     05/05/2003Nữ 7.5 
+HV31223345Nguyen Van F                                     06/06/2003Nu 6.8 
+HV31223346Nguyen Van G                                     07/07/2003Nam4.0 
+HV31223347Nguyen Van H                                     23/08/2003Nam6.0 
+HV31223348Nguyen Van I                                     09/09/2003Nam8.0 
+HV31223349Nguyen Van K                                     10/10/2003Nu 8.5 
+HV31223350Nguyen Van L                                     11/12/2003Nam4.9 

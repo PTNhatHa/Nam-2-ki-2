@@ -1,0 +1,79 @@
+# Project: Lab01
+# Makefile created by Dev-C++ 5.11
+
+CPP      = g++.exe
+CC       = gcc.exe
+WINDRES  = windres.exe
+OBJ      = Lab1_House.o Lab1_Circle1.o Lab1_Circle2.o Lab1_Star.o Lab1_VN.o Lab1_Flower.o Lab1_Sin-Cos.o Lab1_Dothi6.o Lab1_Dothi1.o Lab1_Dothi2.o Lab1_Dothi3.o Lab1_Dothi4.o Lab1_Dothi5.o lab01hcn.o lab01mouse.o lab01hinhcau.o lab01tamgiac.o lab01tudien.o
+LINKOBJ  = Lab1_House.o Lab1_Circle1.o Lab1_Circle2.o Lab1_Star.o Lab1_VN.o Lab1_Flower.o Lab1_Sin-Cos.o Lab1_Dothi6.o Lab1_Dothi1.o Lab1_Dothi2.o Lab1_Dothi3.o Lab1_Dothi4.o Lab1_Dothi5.o lab01hcn.o lab01mouse.o lab01hinhcau.o lab01tamgiac.o lab01tudien.o
+LIBS     = -L"D:/LEARNING/Dev-Cpp/MinGW64/x86_64-w64-mingw32/lib" -static-libgcc -lws2_32 -lopengl32 -lfreeglut -lglu32
+INCS     = -I"D:/LEARNING/Dev-Cpp/MinGW64/x86_64-w64-mingw32/include"
+CXXINCS  = -I"D:/LEARNING/Dev-Cpp/MinGW64/x86_64-w64-mingw32/include"
+BIN      = Lab01.exe
+CXXFLAGS = $(CXXINCS) 
+CFLAGS   = $(INCS) 
+RM       = rm.exe -f
+
+.PHONY: all all-before all-after clean clean-custom
+
+all: all-before $(BIN) all-after
+
+clean: clean-custom
+	${RM} $(OBJ) $(BIN)
+
+$(BIN): $(OBJ)
+	$(CPP) $(LINKOBJ) -o $(BIN) $(LIBS)
+
+Lab1_House.o: Lab1_House.cpp
+	$(CPP) -c Lab1_House.cpp -o Lab1_House.o $(CXXFLAGS)
+
+Lab1_Circle1.o: Lab1_Circle1.cpp
+	$(CPP) -c Lab1_Circle1.cpp -o Lab1_Circle1.o $(CXXFLAGS)
+
+Lab1_Circle2.o: Lab1_Circle2.cpp
+	$(CPP) -c Lab1_Circle2.cpp -o Lab1_Circle2.o $(CXXFLAGS)
+
+Lab1_Star.o: Lab1_Star.cpp
+	$(CPP) -c Lab1_Star.cpp -o Lab1_Star.o $(CXXFLAGS)
+
+Lab1_VN.o: Lab1_VN.cpp
+	$(CPP) -c Lab1_VN.cpp -o Lab1_VN.o $(CXXFLAGS)
+
+Lab1_Flower.o: Lab1_Flower.cpp
+	$(CPP) -c Lab1_Flower.cpp -o Lab1_Flower.o $(CXXFLAGS)
+
+Lab1_Sin-Cos.o: Lab1_Sin-Cos.cpp
+	$(CPP) -c Lab1_Sin-Cos.cpp -o Lab1_Sin-Cos.o $(CXXFLAGS)
+
+Lab1_Dothi6.o: Lab1_Dothi6.cpp
+	$(CPP) -c Lab1_Dothi6.cpp -o Lab1_Dothi6.o $(CXXFLAGS)
+
+Lab1_Dothi1.o: Lab1_Dothi1.cpp
+	$(CPP) -c Lab1_Dothi1.cpp -o Lab1_Dothi1.o $(CXXFLAGS)
+
+Lab1_Dothi2.o: Lab1_Dothi2.cpp
+	$(CPP) -c Lab1_Dothi2.cpp -o Lab1_Dothi2.o $(CXXFLAGS)
+
+Lab1_Dothi3.o: Lab1_Dothi3.cpp
+	$(CPP) -c Lab1_Dothi3.cpp -o Lab1_Dothi3.o $(CXXFLAGS)
+
+Lab1_Dothi4.o: Lab1_Dothi4.cpp
+	$(CPP) -c Lab1_Dothi4.cpp -o Lab1_Dothi4.o $(CXXFLAGS)
+
+Lab1_Dothi5.o: Lab1_Dothi5.cpp
+	$(CPP) -c Lab1_Dothi5.cpp -o Lab1_Dothi5.o $(CXXFLAGS)
+
+lab01hcn.o: lab01hcn.cpp
+	$(CPP) -c lab01hcn.cpp -o lab01hcn.o $(CXXFLAGS)
+
+lab01mouse.o: lab01mouse.cpp
+	$(CPP) -c lab01mouse.cpp -o lab01mouse.o $(CXXFLAGS)
+
+lab01hinhcau.o: lab01hinhcau.cpp
+	$(CPP) -c lab01hinhcau.cpp -o lab01hinhcau.o $(CXXFLAGS)
+
+lab01tamgiac.o: lab01tamgiac.cpp
+	$(CPP) -c lab01tamgiac.cpp -o lab01tamgiac.o $(CXXFLAGS)
+
+lab01tudien.o: lab01tudien.cpp
+	$(CPP) -c lab01tudien.cpp -o lab01tudien.o $(CXXFLAGS)

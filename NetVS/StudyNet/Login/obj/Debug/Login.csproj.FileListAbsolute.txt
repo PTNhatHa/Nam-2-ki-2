@@ -1,0 +1,8 @@
+D:\LEARNING\HK4\NetVS\StudyNet\Login\bin\Debug\Login.dll
+D:\LEARNING\HK4\NetVS\StudyNet\Login\bin\Debug\Login.pdb
+D:\LEARNING\HK4\NetVS\StudyNet\Login\obj\Debug\Login.csproj.AssemblyReference.cache
+D:\LEARNING\HK4\NetVS\StudyNet\Login\obj\Debug\Login.Login1.resources
+D:\LEARNING\HK4\NetVS\StudyNet\Login\obj\Debug\Login.csproj.GenerateResource.cache
+D:\LEARNING\HK4\NetVS\StudyNet\Login\obj\Debug\Login.csproj.CoreCompileInputs.cache
+D:\LEARNING\HK4\NetVS\StudyNet\Login\obj\Debug\Login.dll
+D:\LEARNING\HK4\NetVS\StudyNet\Login\obj\Debug\Login.pdb

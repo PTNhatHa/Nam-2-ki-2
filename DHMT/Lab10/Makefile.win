@@ -1,0 +1,52 @@
+# Project: Lab10
+# Makefile created by Dev-C++ 5.11
+
+CPP      = g++.exe
+CC       = gcc.exe
+WINDRES  = windres.exe
+OBJ      = Kock.o Mandelbrotset01.o Mandelbrotset02.o BT1.o BT2.o BT3.o BT4.o BT5.o BT6.o
+LINKOBJ  = Kock.o Mandelbrotset01.o Mandelbrotset02.o BT1.o BT2.o BT3.o BT4.o BT5.o BT6.o
+LIBS     = -L"D:/LEARNING/Dev-Cpp/MinGW64/x86_64-w64-mingw32/lib" -static-libgcc -lws2_32 -lopengl32 -lfreeglut -lglu32
+INCS     = -I"D:/LEARNING/Dev-Cpp/MinGW64/x86_64-w64-mingw32/include"
+CXXINCS  = -I"D:/LEARNING/Dev-Cpp/MinGW64/x86_64-w64-mingw32/include"
+BIN      = Lab10.exe
+CXXFLAGS = $(CXXINCS) 
+CFLAGS   = $(INCS) 
+RM       = rm.exe -f
+
+.PHONY: all all-before all-after clean clean-custom
+
+all: all-before $(BIN) all-after
+
+clean: clean-custom
+	${RM} $(OBJ) $(BIN)
+
+$(BIN): $(OBJ)
+	$(CPP) $(LINKOBJ) -o $(BIN) $(LIBS)
+
+Kock.o: Kock.cpp
+	$(CPP) -c Kock.cpp -o Kock.o $(CXXFLAGS)
+
+Mandelbrotset01.o: Mandelbrotset01.cpp
+	$(CPP) -c Mandelbrotset01.cpp -o Mandelbrotset01.o $(CXXFLAGS)
+
+Mandelbrotset02.o: Mandelbrotset02.cpp
+	$(CPP) -c Mandelbrotset02.cpp -o Mandelbrotset02.o $(CXXFLAGS)
+
+BT1.o: BT1.cpp
+	$(CPP) -c BT1.cpp -o BT1.o $(CXXFLAGS)
+
+BT2.o: BT2.cpp
+	$(CPP) -c BT2.cpp -o BT2.o $(CXXFLAGS)
+
+BT3.o: BT3.cpp
+	$(CPP) -c BT3.cpp -o BT3.o $(CXXFLAGS)
+
+BT4.o: BT4.cpp
+	$(CPP) -c BT4.cpp -o BT4.o $(CXXFLAGS)
+
+BT5.o: BT5.cpp
+	$(CPP) -c BT5.cpp -o BT5.o $(CXXFLAGS)
+
+BT6.o: BT6.cpp
+	$(CPP) -c BT6.cpp -o BT6.o $(CXXFLAGS)

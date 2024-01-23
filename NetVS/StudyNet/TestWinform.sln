@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestWinform", "StudyNet\TestWinform.csproj", "{8F4442E9-CC84-485E-948F-1C83AC8A531E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DangNhap", "Login\DangNhap.csproj", "{3AC331B0-78B7-4317-94DC-E6705CCA65E0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8F4442E9-CC84-485E-948F-1C83AC8A531E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F4442E9-CC84-485E-948F-1C83AC8A531E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F4442E9-CC84-485E-948F-1C83AC8A531E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F4442E9-CC84-485E-948F-1C83AC8A531E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3AC331B0-78B7-4317-94DC-E6705CCA65E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3AC331B0-78B7-4317-94DC-E6705CCA65E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3AC331B0-78B7-4317-94DC-E6705CCA65E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3AC331B0-78B7-4317-94DC-E6705CCA65E0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0E8A83F8-775F-4CEA-86C0-9375D3E2BEC7}
+	EndGlobalSection
+EndGlobal

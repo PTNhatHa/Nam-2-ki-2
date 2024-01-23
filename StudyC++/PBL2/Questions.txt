@@ -1,0 +1,621 @@
+62
+10001
+Câu hỏi: Khoa học tự nhiên nghiên cứu về lĩnh vực nào dưới đây? 
+1
+A. Các hiện tượng tự nhiên
+1
+B. Các tính chất của tự nhiên
+0
+C. Các quy luật trái tự nhiên
+0
+D. Tất cả các ý trên
+10002
+Câu hỏi: Khoa học tự nhiên không bao gồm lĩnh vực nào sau đây?
+0
+A. Vật lí học
+0
+B. Khoa học Trái Đất
+0
+C. Thiên văn học
+1
+D. Tâm lí học
+10003
+Câu hỏi: Vật nào sau đây là vật sống?
+0
+A. Con robot
+1
+B. Con gà
+1
+C. Mèo con
+0
+D. Trái Đất
+10004
+Câu hỏi: Vật nào sau đây là vật không sống?
+0
+A. Quả cà chua ở trên cây
+1
+B. Ghế
+1
+C. Than củi
+0
+D. Vi khuẩn
+10005
+Câu hỏi: Em đang đun nước, sau một thời gian thấy tiếng nước reo và mặt nước sủi lăn tăn, nước bắt đầu sôi. Vậy hiện tượng nước sôi liên quan tới lĩnh vực khoa học nào?
+0
+A. Hóa học
+1
+B. Vật lí học
+0
+C. Sinh học
+0
+D. Hóa học và sinh học
+10006
+Câu hỏi: Hoạt động nào sau đây của con người là hoạt động nghiên cứu khoa học?
+0
+A. Thả diều
+0
+B. Cho mèo ăn hàng ngày
+1
+C. Nghiên cứu hệ thống quạt nước cho đầm nuôi tôm.
+1
+D. Nghiên cứu vaccine phòng chống virus COVID - 19 trong phòng thí nghiệm 
+10007
+Câu hỏi: Đối tượng nghiên cứu nào sau đây không thuộc lĩnh vực khoa học tự nhiên?
+1
+A. Nghiên cứu về tâm sinh lí của lứa tuổi học sinh. 
+0
+B. Nghiên cứu lai tạo giống cây trồng cho năng suất cao.
+0
+C. Nghiên cứu hành tinh sao Hỏa trong Hệ Mặt Trời.
+0
+D. Nghiên cứu quá trình tạo thạch nhũ trong hang động.
+10008
+Câu hỏi: Hoạt động nào sau đây không được xem là nghiên cứu khoa học tự nhiên?
+0
+A. Nghiên cứu cách khắc chữ lên ly thủy tinh
+1
+B. Nghiên cứu trang phục của các nước.
+1
+B. Nghiên cứu văn hóa của các nước.
+0
+D. Nghiên cứu cách khắc chữ lên thủy tinh.
+10009
+Câu hỏi: Lĩnh vực chuyên nghiên cứu về năng lượng thuộc lĩnh vực nào của khoa học tự nhiên?
+0
+A. Hóa học
+0
+B. Sinh học
+1
+C. Vật lí
+0
+D. Thiên văn học
+10010
+Câu hỏi: Phát biểu nào sau đây là phát biểu đúng về vai trò của khoa học tự nhiên trong cuộc sống?
+1
+A. Mở rộng sản suát và phát triển kinh tế
+0
+B. Cung cấp thông tin cũ và nâng cao hiểu biết của con người
+1
+C. Bảo vệ môi trường; Ứng phó với biển đổi khí hậu.
+0
+D. Cả 3 đáp án trên
+20001
+Câu hỏi: Nguyên tử là
+1
+A. hạt vô cùng nhỏ, trung hòa về điện.
+0
+B. hạt vô cùng nhỏ, mang điện tích âm.
+0
+C. hạt vô cùng nhỏ, mang điện tích dương.
+0
+D. hạt có kích thước gần như hạt cát, không mang điện.
+20002
+Câu hỏi: Hầu hết các nguyên tử đưuocj cấu tạo từ
+0
+A. electron và neutron.
+1
+B. hạt nhân và vỏ nguyên tử
+0
+C. neutron và electron.
+1
+D. electron, proton và neutron.
+20003
+Câu hỏi: Trong nguyên tử, hạt nào không mang điện?
+0
+A. negatron.
+1
+B. neutron.
+0
+C. electron.
+0
+D. proton.
+20004
+Câu hỏi: Phần khu vực trung tâm trong nguyên tử, nơi chứa các hạt proton và neutron được gọi là
+0
+A. lõi.
+0
+B. đám mây electron.
+1
+C. hạt nhân.
+0
+D. trung tâm.
+20005
+Câu hỏi: Hạt mang điện tích dương trong nguyên tử là
+0
+A. positron.
+0
+B. neutron.
+0
+C. electron.
+1
+D. proton.
+20006
+Câu hỏi: Số electron và số lớp electron trong nguyên tử nitrogen là
+1
+A. 7 và 2.
+0
+B. 7 và 3.
+0
+C. 8 và 2.
+0
+D. 8 và 3.
+20007
+Câu hỏi: Nguyên tử aluminium có 13 proton và 14 neutron. Khối lượng gần đúng của nguyên tử aluminium là
+0
+A. 13 amu.
+0
+B. 14 amu.
+1
+C. 27 amu.
+0
+D. 40 amu.
+20008
+Câu hỏi: Nguyên tử chlorine có
+1
+A. 17 proton
+0
+B. 17 proton và 8 electron ngoài cùng.
+1
+C. 7 electron ngoài cùng.
+0
+D. 17 proton và 17 electron ngoài cùng.
+20009
+Câu hỏi: Cho nguyên tử carbon và oxygen như sau:Khẳng định nào sau đây là sai?
+0
+A. Nguyên tử carbon có ít electron hơn nguyên tử oxygen.
+1
+B. Nguyên tử carbon và nguyên tử oxygen đều cần thêm 4 electron để lớp ngoài cùng có số electron tối đ A.
+0
+C. Nguyên tử carbon và nguyên tử oxygen đều có 2 lớp electron.
+0
+D. Số electron ở lớp ngoài cùng của nguyên tử carbon và oxygen lần lượt là 4e và 6e.
+20010
+Câu hỏi: 1
+1
+A. 1
+0
+B. 2
+0
+C. 3
+0
+D. 4
+30001
+Câu hỏi: Phát biểu nào sau đây là đúng? 
+1
+A. Thành phần chính của supephotphat kép gồm hai muối Ca(H2PO4)2 và CaSO4. 
+0
+B. Urê có công thức là (NH2)2CO. 
+0
+C. Supephotphat đơn chỉ có Ca(H2PO4)2. 
+0
+D. Phân lân cung cấp nitơ cho cây trồng. 
+30002
+Câu hỏi: Hoá chất dùng để nhận biết các lọ mất nhãn chứa riêng biệt các đồng phân mạch hở, cùng công thức phân tử C2H4O2 là 
+0
+A. Dung dịch NaOH và dung dịch AgNO3/NH3 
+1
+B. Quỳ tím và kim loại kiềm 
+0
+C. Dung dịch NaOH và quỳ tím 
+0
+D. Quỳ tím và dung dịch AgNO3/NH3 
+30003
+Câu hỏi: Thủy phân 1 mol este X cần 2 mol KOH. Hỗn hợp sản phẩm thu được gồm glixerol, kali axetat và kali propionat. Có bao nhiêu công thức cấu tạo thỏa mãn với X? 
+0
+A. 6 
+0
+B. 2 
+1
+C. 3 
+0
+D. 12 
+30004
+Câu hỏi: Cacbon phản ứng với tất cả các chất trong dãy nào sau đây ? 
+0
+A. CO, Al2O3, HNO3 (đặc), H2SO4 (đặc) 
+0
+B. Fe2O3, Al2O3, CO2,HNO3 
+1
+C. Fe2O3, CO2, H2, HNO3 (đặc) 
+0
+D. CO, Al2O3, K2O, Ca 
+30005
+Câu hỏi: Hãy chọn câu trả lời đúng: 
+0
+A. Saccarozơ còn được gọi là đường khử. 
+1
+B. Phân tử khối của 1 aminoaxit có 1 nhóm amino và 1 nhóm cacboxyl luôn là 1 số lẻ. 
+0
+C. Tinh bột và xenlulozơ là đồng phân của nhau. 
+0
+D. Tơ polieste thuộc loại tơ poliamit kém bền với axít và bazơ. 
+30006
+Câu hỏi: Cho các chất sau : 1.CH3CH(NH2)COOH 2. HOOC- CH2-CH2-COOH 3. HO-CH2-COOH 4. HCHO và C6H5OH 5.HO-CH2-CH2-OH và p-C6H4(COOH)2 6. H2NCH2-6NH2 và HOOCCH2-4COOH Các trường hợp có thể tham gia phản ứng trùng ngưng là 
+1
+A. 1, 3, 4, 5, 6 
+0
+B. 1, 2, 3, 4, 5, 6 
+0
+C. 1, 3 ,5 ,6 
+0
+D. 1, 6 
+30007
+Câu hỏi: Số đồng phân cấu tạo C4H11N của amin tác dụng với dung dịch hỗn hợp HCl và NaNO2 cho khí là 
+0
+A. 5 
+0
+B. 6 
+1
+C. 4 
+0
+D. 8 
+30008
+Câu hỏi: Trong số các chất : chất béo, tinh bột, protein, glucozơ, tơ tằm, đường kính và xenlulozơ axetat có bao nhiêu chất là polime ? 
+0
+A. 5 
+0
+B. 2 
+1
+C. 4 
+0
+D. 3 
+30009
+Câu hỏi: Cho sơ đồ biến hoá: NaCl → HCl → Cl2 → KClO3 → KCl → Cl2 → CaOCl2 Có bao nhiêu phản ứng trong sơ đồ biến hoá trên thuộc phản ứng oxi hoá khử ? 
+1
+A. 5 
+0
+B. 4 
+0
+C. 6 
+0
+D. 3 
+30010
+Câu hỏi: Điều khẳng định nào sau đây là không đúng ? 
+0
+A. Khi đun một bình nước có chứa 0,01 mol Na+; 0,02 mol Ca2+; 0,005 mol Mg2+; 0,05 mol HCO3- và ion Cl- đến phản ứng hoàn toàn thì thu được nước mềm 
+1
+B. Thạch cao khan dùng để bó bột, đúc khuôn 
+0
+C. Clorua vôi tác dụng với dung dịch HCl sinh ra khí tác dụng với nước vôi trong dư thu được hỗn hợp hai muối 
+0
+D. Nước cứng không làm hao tổn chất giặt rửa tổng hợp 
+30011
+Câu hỏi: Cho dãy phản ứng sau: CO2->(C6H10O5)n->C12H22O11->C6H12O6->C2H5OH. Số giai đoạn cần dùng xúc tác axit là: 
+0
+A. 1 
+1
+B. 2 
+0
+C. 3 
+0
+D. 4 
+30012
+Câu hỏi: Cho các chất sau: phenylamoni clorua, natri phenolat, p-crezol, vinyl clorua, ancol benzylic, phenyl benzoat và tơ nilon-6,6. Số chất tác dụng được với dung dịch NaOH đun nóng là 
+0
+A. 6. 
+0
+B. 5. 
+1
+C. 4. 
+0
+D. 3.
+10101
+Câu hỏi: Tính (2+4)*5=
+1
+A. 2
+0
+B. 3
+0
+C. 4
+0
+D. 5
+10102
+Câu hỏi: Tính 1+2=
+0
+A. 2
+1
+B. 3
+0
+C. 4
+0
+D. 5
+10103
+Câu hỏi: Tính 1+3=
+1
+A. 2+2
+0
+B. 3
+1
+C. 4
+0
+D. 5
+10104
+Câu hỏi: Tính 1+4=
+0
+A. 2
+0
+B. 3
+0
+C. 4
+1
+D. 5
+10105
+Câu hỏi: Tính 1+5=
+0
+A. 2
+1
+B. 3+3
+0
+C. 4
+1
+D. 5+1
+10106
+Câu hỏi: Tính 9+1=
+0
+A. 2
+0
+B. 3
+0
+C. 4
+1
+D. 10
+10107
+Câu hỏi: Tính 7+2=
+1
+A. 9
+1
+B. 3+6
+0
+C. 4
+0
+D. 5
+10108
+Câu hỏi: Tính 2+6=
+1
+A. 8
+0
+B. 3
+1
+C. 4+4
+0
+D. 5
+10109
+Câu hỏi: Tính 3+9=
+1
+A. 12
+0
+B. 3
+0
+C. 4
+0
+D. 5
+10110
+Câu hỏi: Tính 4+9=
+0
+A. 2
+1
+B. 13
+0
+C. 4
+0
+D. 5
+20101
+Câu hỏi: Tính (2+4)*5=
+1
+A. 8
+0
+B. 3
+0
+C. 4
+0
+D. 5
+20102
+Câu hỏi: Tính 2*2=
+1
+A. 2+2
+0
+B. 3
+1
+C. 4
+0
+D. 5
+20103
+Câu hỏi: Tính 2*3=
+0
+A. 2
+1
+B. 3*2
+1
+C. 6
+0
+D. 5
+20104
+Câu hỏi: Tính 2*5=
+0
+A. 2
+0
+B. 3
+1
+C. 10
+0
+D. 5
+20105
+Câu hỏi: Tính 2*10=
+1
+A. 20
+0
+B. 3
+0
+C. 4
+1
+D. 5*4
+20106
+Câu hỏi: Tính 2*11=
+1
+A. 22
+0
+B. 3
+0
+C. 4
+0
+D. 5
+20107
+Câu hỏi: Tính 2*13=
+1
+A. 26
+0
+B. 12*3
+0
+C. 4
+0
+D. 5
+20108
+Câu hỏi: Tính 2*18=
+0
+A. 2
+1
+B. 3*12
+1
+C. 4*9
+0
+D. 5
+20109
+Câu hỏi: Tính 2*20=
+1
+A. 4*10
+0
+B. 3
+1
+C. 4*5*2
+0
+D. 5
+20110
+Câu hỏi: Tính 2*21=
+0
+A. 2
+1
+B. 3*14
+0
+C. 4*11
+0
+D. 5
+30101
+Câu hỏi: Tính (2+4)*5=
+0
+A. 2
+1
+B. 3*2*5
+0
+C. 4
+0
+D. 5
+30102
+Câu hỏi: Tính (2+4)*5/2=
+0
+A. 2
+0
+B. 3
+0
+C. 4
+1
+D. 5*3
+30103
+Câu hỏi: Tính (3+4)*5=
+0
+A. 2
+1
+B. 35
+1
+C. 4+31
+0
+D. 5
+30104
+Câu hỏi: Tính (4+4)*5=
+1
+A. 2*20
+0
+B. 3
+1
+C. 4*10
+0
+D. 5
+30105
+Câu hỏi: Tính (1+4)*5/5=
+0
+A. 2
+0
+B. 3
+0
+C. 4
+1
+D. 5
+30106
+Câu hỏi: Tính (20+4)*5=
+0
+A. 2
+0
+B. 3
+1
+C. 24*5
+0
+D. 5
+30107
+Câu hỏi: Tính (12+4)*5=
+1
+A. 20*4
+0
+B. 3
+1
+C. 4*5*4
+0
+D. 5
+30108
+Câu hỏi: Tính (10+4)*5=
+1
+A. 2*35
+0
+B. 3*21
+0
+C. 4
+0
+D. 5
+30109
+Câu hỏi: Tính (13+4)*5=
+0
+A. 2
+0
+B. 3
+0
+C. 4
+1
+D. 5*17
+30110
+Câu hỏi: Tính (12+4)*5/4=
+0
+A. 2
+0
+B. 3
+1
+C. 4*5
+0
+D. 5

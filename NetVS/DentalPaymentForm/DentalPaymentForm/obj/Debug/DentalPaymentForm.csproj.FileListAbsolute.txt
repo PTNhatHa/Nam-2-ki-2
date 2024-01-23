@@ -1,0 +1,11 @@
+D:\NetVS\DentalPaymentForm\DentalPaymentForm\bin\Debug\DentalPaymentForm.exe.config
+D:\NetVS\DentalPaymentForm\DentalPaymentForm\bin\Debug\DentalPaymentForm.exe
+D:\NetVS\DentalPaymentForm\DentalPaymentForm\bin\Debug\DentalPaymentForm.pdb
+D:\NetVS\DentalPaymentForm\DentalPaymentForm\obj\Debug\DentalPaymentForm.csproj.AssemblyReference.cache
+D:\NetVS\DentalPaymentForm\DentalPaymentForm\obj\Debug\DentalPaymentForm.csproj.SuggestedBindingRedirects.cache
+D:\NetVS\DentalPaymentForm\DentalPaymentForm\obj\Debug\DentalPaymentForm.Form1.resources
+D:\NetVS\DentalPaymentForm\DentalPaymentForm\obj\Debug\DentalPaymentForm.Properties.Resources.resources
+D:\NetVS\DentalPaymentForm\DentalPaymentForm\obj\Debug\DentalPaymentForm.csproj.GenerateResource.cache
+D:\NetVS\DentalPaymentForm\DentalPaymentForm\obj\Debug\DentalPaymentForm.csproj.CoreCompileInputs.cache
+D:\NetVS\DentalPaymentForm\DentalPaymentForm\obj\Debug\DentalPaymentForm.exe
+D:\NetVS\DentalPaymentForm\DentalPaymentForm\obj\Debug\DentalPaymentForm.pdb

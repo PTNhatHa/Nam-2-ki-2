@@ -1,0 +1,30 @@
+namespace gom nhìu class 
+trong nn bậc cao thì namespace là 1 project
+
+nếu bỏ static của main thì phải tạo đối tượng lớp program
+static là thành phần tĩnh, khi biên dịch sẽ đc cấp phát vùng nhớ tự động, main sẽ đc chạy đầu tiên mà ko cần khai báo
+
+thường để tên namespace trùng tên project
+
+Console.Writene("x = {0}, y = {1}", x, y)
+đưa giá trị x và y lần lượt vào vị trí 0 và 1.
+
+x = Console.Read()
+nhập x vào, trả về giá trị x trong bẳng mã ASCII, chỉ nhận 1 giá trị đầu của x
+
+ÉP KIỂU
+phương thức tĩnh tồn tại trong mọi kiểu dl
+Parse() có 1 tham số trả về kiểu số, 
+TryParse() có 2 tham số trả về kiểu bool, trả về 0 nếu ép thất bại, trả về giá trị nếu thành công
+
+ép biến giá trị thành biến tham chiếu:
+từ khóa out trả về kiểu tham chiếu: chưa khởi tạo gtri
+từ khóa ref...: biến đã khai báo và khởi tạo giá trị
+
+lớp Convert hỗ trợ ép nhiều kiểu hơn
+
+GIÁ TRỊ
+string s="123"
+địa chỉ vùng nhớ lưu trong stack, giá trị 123 lưu trong heap
+
+coi vid 23456

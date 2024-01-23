@@ -1,0 +1,137 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+  <!-- EF Runtime content -->
+  <edmx:Runtime>
+    <!-- SSDL content -->
+    <edmx:StorageModels>
+      <Schema Namespace="QLSVModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+        <EntityType Name="SV">
+          <Key>
+            <PropertyRef Name="MaSV" />
+          </Key>
+          <Property Name="MaSV" Type="nvarchar" MaxLength="50" Nullable="false" />
+          <Property Name="TenSV" Type="nvarchar" MaxLength="50" />
+          <Property Name="Gender" Type="bit" />
+          <Property Name="DTB" Type="float" />
+          <Property Name="IDLop" Type="int" Nullable="false" />
+        </EntityType>
+        <EntityType Name="TenLop">
+          <Key>
+            <PropertyRef Name="IDLop" />
+          </Key>
+          <Property Name="IDLop" Type="int" Nullable="false" />
+          <Property Name="TenLop" Type="nvarchar" MaxLength="50" />
+        </EntityType>
+        <Association Name="FK_SV_TenLop">
+          <End Role="TenLop" Type="Self.TenLop" Multiplicity="1" />
+          <End Role="SV" Type="Self.SV" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="TenLop">
+              <PropertyRef Name="IDLop" />
+            </Principal>
+            <Dependent Role="SV">
+              <PropertyRef Name="IDLop" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <EntityContainer Name="QLSVModelStoreContainer">
+          <EntitySet Name="SV" EntityType="Self.SV" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="TenLop" EntityType="Self.TenLop" Schema="dbo" store:Type="Tables" />
+          <AssociationSet Name="FK_SV_TenLop" Association="Self.FK_SV_TenLop">
+            <End Role="TenLop" EntitySet="TenLop" />
+            <End Role="SV" EntitySet="SV" />
+          </AssociationSet>
+        </EntityContainer>
+      </Schema>
+    </edmx:StorageModels>
+    <!-- CSDL content -->
+    <edmx:ConceptualModels>
+      <Schema Namespace="QLSVModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+        <EntityType Name="SV">
+          <Key>
+            <PropertyRef Name="MaSV" />
+          </Key>
+          <Property Name="MaSV" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+          <Property Name="TenSV" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+          <Property Name="Gender" Type="Boolean" />
+          <Property Name="DTB" Type="Double" />
+          <Property Name="IDLop" Type="Int32" Nullable="false" />
+          <NavigationProperty Name="TenLop" Relationship="Self.FK_SV_TenLop" FromRole="SV" ToRole="TenLop" />
+        </EntityType>
+        <EntityType Name="TenLop">
+          <Key>
+            <PropertyRef Name="IDLop" />
+          </Key>
+          <Property Name="IDLop" Type="Int32" Nullable="false" />
+          <Property Name="TenLop1" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+          <NavigationProperty Name="SVs" Relationship="Self.FK_SV_TenLop" FromRole="TenLop" ToRole="SV" />
+        </EntityType>
+        <Association Name="FK_SV_TenLop">
+          <End Role="TenLop" Type="Self.TenLop" Multiplicity="1" />
+          <End Role="SV" Type="Self.SV" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="TenLop">
+              <PropertyRef Name="IDLop" />
+            </Principal>
+            <Dependent Role="SV">
+              <PropertyRef Name="IDLop" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <EntityContainer Name="QLSVEntity" annotation:LazyLoadingEnabled="true">
+          <EntitySet Name="SVs" EntityType="Self.SV" />
+          <EntitySet Name="TenLops" EntityType="Self.TenLop" />
+          <AssociationSet Name="FK_SV_TenLop" Association="Self.FK_SV_TenLop">
+            <End Role="TenLop" EntitySet="TenLops" />
+            <End Role="SV" EntitySet="SVs" />
+          </AssociationSet>
+        </EntityContainer>
+      </Schema>
+    </edmx:ConceptualModels>
+    <!-- C-S mapping content -->
+    <edmx:Mappings>
+      <Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+        <EntityContainerMapping StorageEntityContainer="QLSVModelStoreContainer" CdmEntityContainer="QLSVEntity">
+          <EntitySetMapping Name="SVs">
+            <EntityTypeMapping TypeName="QLSVModel.SV">
+              <MappingFragment StoreEntitySet="SV">
+                <ScalarProperty Name="MaSV" ColumnName="MaSV" />
+                <ScalarProperty Name="TenSV" ColumnName="TenSV" />
+                <ScalarProperty Name="Gender" ColumnName="Gender" />
+                <ScalarProperty Name="DTB" ColumnName="DTB" />
+                <ScalarProperty Name="IDLop" ColumnName="IDLop" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="TenLops">
+            <EntityTypeMapping TypeName="QLSVModel.TenLop">
+              <MappingFragment StoreEntitySet="TenLop">
+                <ScalarProperty Name="IDLop" ColumnName="IDLop" />
+                <ScalarProperty Name="TenLop1" ColumnName="TenLop" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+        </EntityContainerMapping>
+      </Mapping>
+    </edmx:Mappings>
+  </edmx:Runtime>
+  <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <Connection>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="MetadataArtifactProcessing" Value="EmbedInOutputAssembly" />
+      </DesignerInfoPropertySet>
+    </Connection>
+    <Options>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="ValidateOnBuild" Value="true" />
+        <DesignerProperty Name="EnablePluralization" Value="true" />
+        <DesignerProperty Name="IncludeForeignKeysInModel" Value="true" />
+        <DesignerProperty Name="UseLegacyProvider" Value="false" />
+        <DesignerProperty Name="CodeGenerationStrategy" Value="None" />
+      </DesignerInfoPropertySet>
+    </Options>
+    <!-- Diagram content (shape and connector positions) -->
+    <Diagrams></Diagrams>
+  </Designer>
+</edmx:Edmx>

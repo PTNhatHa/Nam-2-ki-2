@@ -1,0 +1,14 @@
+D:\LEARNING\HK4\NetVS\UI_PBL3\UI_PBL3\bin\Debug\UI_PBL3.exe.config
+D:\LEARNING\HK4\NetVS\UI_PBL3\UI_PBL3\bin\Debug\UI_PBL3.exe
+D:\LEARNING\HK4\NetVS\UI_PBL3\UI_PBL3\bin\Debug\UI_PBL3.pdb
+D:\LEARNING\HK4\NetVS\UI_PBL3\UI_PBL3\obj\Debug\UI_PBL3.csproj.AssemblyReference.cache
+D:\LEARNING\HK4\NetVS\UI_PBL3\UI_PBL3\obj\Debug\UI_PBL3.csproj.SuggestedBindingRedirects.cache
+D:\LEARNING\HK4\NetVS\UI_PBL3\UI_PBL3\obj\Debug\UI_PBL3.Form1.resources
+D:\LEARNING\HK4\NetVS\UI_PBL3\UI_PBL3\obj\Debug\UI_PBL3.Properties.Resources.resources
+D:\LEARNING\HK4\NetVS\UI_PBL3\UI_PBL3\obj\Debug\UI_PBL3.csproj.GenerateResource.cache
+D:\LEARNING\HK4\NetVS\UI_PBL3\UI_PBL3\obj\Debug\UI_PBL3.csproj.CoreCompileInputs.cache
+D:\LEARNING\HK4\NetVS\UI_PBL3\UI_PBL3\obj\Debug\UI_PBL3.exe
+D:\LEARNING\HK4\NetVS\UI_PBL3\UI_PBL3\obj\Debug\UI_PBL3.pdb
+D:\LEARNING\HK4\NetVS\UI_PBL3\UI_PBL3\obj\Debug\UI_PBL3.Forms.Teacher_Mark.resources
+D:\LEARNING\HK4\NetVS\UI_PBL3\UI_PBL3\obj\Debug\UI_PBL3.Forms.Teacher_PI.resources
+D:\LEARNING\HK4\NetVS\UI_PBL3\UI_PBL3\obj\Debug\UI_PBL3.Forms.Teacher_Schedule.resources

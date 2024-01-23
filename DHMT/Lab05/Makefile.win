@@ -1,0 +1,34 @@
+# Project: Lab05
+# Makefile created by Dev-C++ 5.11
+
+CPP      = g++.exe
+CC       = gcc.exe
+WINDRES  = windres.exe
+OBJ      = Lab05OrthoProject.o Lab05PersProject01.o Lab05PersProject02.o
+LINKOBJ  = Lab05OrthoProject.o Lab05PersProject01.o Lab05PersProject02.o
+LIBS     = -L"D:/LEARNING/Dev-Cpp/MinGW64/x86_64-w64-mingw32/lib" -static-libgcc -lws2_32 -lopengl32 -lfreeglut -lglu32
+INCS     = -I"D:/LEARNING/Dev-Cpp/MinGW64/x86_64-w64-mingw32/include"
+CXXINCS  = -I"D:/LEARNING/Dev-Cpp/MinGW64/x86_64-w64-mingw32/include"
+BIN      = Lab05.exe
+CXXFLAGS = $(CXXINCS) 
+CFLAGS   = $(INCS) 
+RM       = rm.exe -f
+
+.PHONY: all all-before all-after clean clean-custom
+
+all: all-before $(BIN) all-after
+
+clean: clean-custom
+	${RM} $(OBJ) $(BIN)
+
+$(BIN): $(OBJ)
+	$(CPP) $(LINKOBJ) -o $(BIN) $(LIBS)
+
+Lab05OrthoProject.o: Lab05OrthoProject.cpp
+	$(CPP) -c Lab05OrthoProject.cpp -o Lab05OrthoProject.o $(CXXFLAGS)
+
+Lab05PersProject01.o: Lab05PersProject01.cpp
+	$(CPP) -c Lab05PersProject01.cpp -o Lab05PersProject01.o $(CXXFLAGS)
+
+Lab05PersProject02.o: Lab05PersProject02.cpp
+	$(CPP) -c Lab05PersProject02.cpp -o Lab05PersProject02.o $(CXXFLAGS)

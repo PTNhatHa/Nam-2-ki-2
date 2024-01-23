@@ -1,0 +1,13 @@
+D:\LEARNING\HK4\NetVS\QLSV_cuaThay\QLSV_cuaThay\obj\Debug\QLSV_cuaThay.csproj.AssemblyReference.cache
+D:\LEARNING\HK4\NetVS\QLSV_cuaThay\QLSV_cuaThay\obj\Debug\QLSV_cuaThay.csproj.SuggestedBindingRedirects.cache
+D:\LEARNING\HK4\NetVS\QLSV_cuaThay\QLSV_cuaThay\obj\Debug\QLSV_cuaThay.MainForm.resources
+D:\LEARNING\HK4\NetVS\QLSV_cuaThay\QLSV_cuaThay\obj\Debug\QLSV_cuaThay.Properties.Resources.resources
+D:\LEARNING\HK4\NetVS\QLSV_cuaThay\QLSV_cuaThay\obj\Debug\QLSV_cuaThay.csproj.GenerateResource.cache
+D:\LEARNING\HK4\NetVS\QLSV_cuaThay\QLSV_cuaThay\obj\Debug\QLSV_cuaThay.csproj.CoreCompileInputs.cache
+D:\LEARNING\HK4\NetVS\QLSV_cuaThay\QLSV_cuaThay\bin\Debug\QLSV_cuaThay.exe.config
+D:\LEARNING\HK4\NetVS\QLSV_cuaThay\QLSV_cuaThay\bin\Debug\QLSV_cuaThay.exe
+D:\LEARNING\HK4\NetVS\QLSV_cuaThay\QLSV_cuaThay\bin\Debug\QLSV_cuaThay.pdb
+D:\LEARNING\HK4\NetVS\QLSV_cuaThay\QLSV_cuaThay\obj\Debug\QLSV_cuaThay.exe
+D:\LEARNING\HK4\NetVS\QLSV_cuaThay\QLSV_cuaThay\obj\Debug\QLSV_cuaThay.pdb
+D:\LEARNING\HK4\NetVS\QLSV_cuaThay\QLSV_cuaThay\obj\Debug\QLSV_cuaThay.DetailForm.resources
+D:\LEARNING\HK4\NetVS\QLSV_cuaThay\QLSV_cuaThay\obj\Debug\QLSV_cuaThay.Form1.resources

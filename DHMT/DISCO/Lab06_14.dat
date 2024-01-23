@@ -1,0 +1,35 @@
+1
+
+1
+
+0
+
+
+ BEGIN Curve Data ------*
+// Curve Type: 1 = Bezier, 2 = B-Spline, 3 = NURBS, 4 = Rational Bezier
+3
+// Number of Points, Number of Knots, Curve Degree
+6 10  3
+// Begin Control Points (x, y, z, w, infinite point flag)
+19.783 29.911 0.000 1.000 0
+9.748 15.886 0.000 1.000 0
+29.818 -3.864 0.000 1.000 0
+29.818 -25.045 0.000 1.000 0
+14.909 -39.928 0.000 1.000 0
+19.783 -47.084 0.000 1.000 0
+// End Control Points
+// Begin Knot Vector
+0.000
+0.000
+0.000
+0.000
+0.333
+0.667
+1.000
+1.000
+1.000
+1.000
+// End Knot Vector
+// *------ END Curve Data ------*
+// End of file (-1)
+-1
